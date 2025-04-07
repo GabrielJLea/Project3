@@ -92,8 +92,8 @@ for page_number in range(1,int(args.num_pages)+1):
 
             
 
-    print(len(tags_items))
-    print(len(items))
+    #print(len(tags_items))
+    #print(len(items))
 
 
 #write the json or csv file 
